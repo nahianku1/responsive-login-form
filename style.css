@@ -13,8 +13,6 @@
     background-position: center;
     background-size: cover;
 }   
-
-
 .card{
     display: grid;
     justify-content: center;
@@ -40,7 +38,7 @@
     background-color: #74b9ff;
     color: white;
     font-weight: bold;
-    border-radius: 10px;
+    border-radius: 5px;
     border-color: #74b9ff;
 }
 .reset{
@@ -48,7 +46,7 @@
     background-color: #ff7675;
     color: white;
     font-weight: bold;
-    border-radius: 10px;
+    border-radius: 5px;
     border-color: #ff7675;
 }
 input{
